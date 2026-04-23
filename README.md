@@ -1,11 +1,11 @@
 # home-server
 My home server applications and personal layout of file directories and media storage as well as game servers and more
 
-#  am  Runnng my  server on a Dell SFF 7050 with 16gb of ram
+I am  Runnng my  server on a Dell SFF 7050 with 16gb of ram
 
-OS
-Managment
-securty
-Meda
-gameserver
+OSn\
+Managmentn\
+securtynn\
+Medan\
+gameservern\
 
