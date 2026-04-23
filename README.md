@@ -7,5 +7,5 @@ OS \
 Managment \
 securty \
 Medan\
-game server \
+game server
 
