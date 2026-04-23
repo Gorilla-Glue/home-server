@@ -1,0 +1,2 @@
+# OS of choice
+We wll be runnng Ubuntu Server LTS ver. wth docker as are applcaton runner and  portainer to manage the docker fles
